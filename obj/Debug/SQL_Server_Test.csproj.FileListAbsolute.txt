@@ -1,0 +1,13 @@
+D:\18322237829\SQL_Server\SQL_Server_Test\SQL_Server_Test\bin\Debug\SQL_Server_Test.exe.config
+D:\18322237829\SQL_Server\SQL_Server_Test\SQL_Server_Test\bin\Debug\SQL_Server_Test.exe
+D:\18322237829\SQL_Server\SQL_Server_Test\SQL_Server_Test\bin\Debug\SQL_Server_Test.pdb
+D:\18322237829\SQL_Server\SQL_Server_Test\SQL_Server_Test\bin\Debug\System.Data.Common.dll
+D:\18322237829\SQL_Server\SQL_Server_Test\SQL_Server_Test\bin\Debug\System.Data.SqlClient.dll
+D:\18322237829\SQL_Server\SQL_Server_Test\SQL_Server_Test\obj\Debug\SQL_Server_Test.Forgot_Psw.resources
+D:\18322237829\SQL_Server\SQL_Server_Test\SQL_Server_Test\obj\Debug\SQL_Server_Test.Form1.resources
+D:\18322237829\SQL_Server\SQL_Server_Test\SQL_Server_Test\obj\Debug\SQL_Server_Test.Main.resources
+D:\18322237829\SQL_Server\SQL_Server_Test\SQL_Server_Test\obj\Debug\SQL_Server_Test.Properties.Resources.resources
+D:\18322237829\SQL_Server\SQL_Server_Test\SQL_Server_Test\obj\Debug\SQL_Server_Test.Reg.resources
+D:\18322237829\SQL_Server\SQL_Server_Test\SQL_Server_Test\obj\Debug\SQL_Server_Test.csproj.GenerateResource.Cache
+D:\18322237829\SQL_Server\SQL_Server_Test\SQL_Server_Test\obj\Debug\SQL_Server_Test.exe
+D:\18322237829\SQL_Server\SQL_Server_Test\SQL_Server_Test\obj\Debug\SQL_Server_Test.pdb
